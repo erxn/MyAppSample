@@ -1,2 +1,2 @@
 # MyAppSample
-Git Test
+This is MyAppSample to GIT
